@@ -30,11 +30,14 @@ body {
     float: right; 
     border: 5px solid red;
     z-index: 2;
+    margin-right: 10px;
 }
 .lado-esquerdo {
     display: inline-block;
-    width: 200px;
-    border: 5px solid red
+    margin-left: 50px;
+    width: 600px;
+    border: 5px solid red;
+    font-family: arial, 'Ceviche One', cursive;
 
 }
 nav {
