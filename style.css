@@ -15,3 +15,13 @@ body {
 #minha_foto {
     width: 250px;
 }
+.lado-direito {
+    display: inline-block;
+    width: 200px;
+    position: absolute;    
+}
+.lado-esquerdo {
+    display: inline-block;
+    width: 200px;
+
+}
